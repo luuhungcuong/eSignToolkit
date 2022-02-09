@@ -1,0 +1,18 @@
+{
+  "name": "FPT.eSignClient",
+  "productName": "FPT.eSignClient",
+  "version": "1.0.0",
+  "description": "A client toolkit for signing document",
+  "main": "./dist/main/main.js",
+  "author": {
+    "name": "FTP.eContract",
+    "email": "FPT.eContract@fpt.com.vn",
+    "url": "https://econtract.fpt.com.vn/"
+  },
+  "scripts": {
+    "electron-rebuild": "node -r ts-node/register ../../.erb/scripts/electron-rebuild.js",
+    "link-modules": "node -r ts-node/register ../../.erb/scripts/link-modules.js",
+    "postinstall": "npm run electron-rebuild && npm run link-modules"
+  },
+  "license": "MIT"
+}

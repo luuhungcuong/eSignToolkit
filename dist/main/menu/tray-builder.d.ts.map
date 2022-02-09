@@ -1,0 +1,1 @@
+{"version":3,"file":"tray-builder.d.ts","sourceRoot":"","sources":["../../../../../src/main/menu/tray-builder.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,IAAI,EAAE,MAAM,UAAU,CAAC;AAEtC,MAAM,CAAC,OAAO,OAAO,WAAW;IAC9B,IAAI,EAAE,IAAI,CAAC;IAEX,IAAI,EAAE,MAAM,CAAC;gBAED,IAAI,EAAE,IAAI,EAAE,IAAI,EAAE,MAAM;IAKpC,SAAS,aAUP;CACH"}
